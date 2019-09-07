@@ -1,4 +1,5 @@
 #!/bin/bash
+#actualizado
 # inicio script: solicitar nombre directorio y comprobar si existe
 clear
 echo "Favor ingrese nombre del directorio"
