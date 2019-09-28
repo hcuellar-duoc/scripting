@@ -1,1 +1,1 @@
-#repositorio bash
+#bash
